@@ -1,5 +1,4 @@
 import Paragraph from "../shared/Paragraph";
-import Title from "../shared/Title";
 
 interface InfoProps {
     title : string;
