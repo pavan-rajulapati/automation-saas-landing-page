@@ -36,6 +36,7 @@ const Hero = () => {
 								</span>
 								<input
 									type="email"
+									required
 									placeholder="emma@gmail.com"
 									className="w-full py-3 outline-none bg-transparent"
 								/>
@@ -50,7 +51,7 @@ const Hero = () => {
 				</div>
 				<div className="flex flex-1 lg:w-1/2 lg:h-auto relative lg:max-w-none lg:mx-0 mx-auto max-w-3xl">
 					<img
-						src="assets/Adobe Express - file (5).png"
+						src="assets/hero.png"
 						alt="Hero Image"
 						width={2350}
 						height={2359}
