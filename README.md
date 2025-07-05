@@ -3,6 +3,9 @@
 A modern, responsive landing page for an AI-powered automation SaaS product. Built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
 
 ---
+## Live URL 
+ https://cloud-three-peach.vercel.app
+---
 
 ## 🚀 Features
 
@@ -17,9 +20,8 @@ A modern, responsive landing page for an AI-powered automation SaaS product. Bui
 
 ## 📸 Preview
 
-![Preview Screenshot](![Screenshot 2025-07-01 124935](https://github.com/user-attachments/assets/ea92d422-66f2-4021-8486-4f760e3ed4d6))
+(![Screenshot 2025-07-01 124935](https://github.com/user-attachments/assets/ea92d422-66f2-4021-8486-4f760e3ed4d6))
 
-> _Optional: Add a preview image of your site here_
 
 ---
 
